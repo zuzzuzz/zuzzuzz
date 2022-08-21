@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @zuzzuzz
-- 👀 I’m a career and talent development expert. I have experience working across multiple industries from nonprofits, education, to Big Tech. 
-- 🌱 I’m always learning
+- 👀 I’m a career and talent development expert with a background in adult learning and motivation.  I have experience building professional teams as a recruiter and project manager across multiple industries from nonprofits, education, to Big Tech. I once heard someone say the definition of happiness is "the joy you feel in pursuit of your ultimate potential." This has had a profound meaning to how I approach work and life. My goal is to help others learn skills and strategies to have a successful career.  
+<br/>
+- 🌱 I learn so that I can teach. 
 - 📫 How to reach me dlyford@codingdojo.com 
 
 <!---
