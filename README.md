@@ -7,4 +7,4 @@
 zuzzuzz/zuzzuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?borderColor=%2306d6a0&alt="Jokes Card" />
